@@ -1,0 +1,79 @@
+
+M
+SoulCorvus/SoulCorvus/urls.py,0\6\0633e1baf5f1cb896d4a711e454e60ffc859c1d1
+Q
+!SoulCorvus/SoulCorvus/settings.py,f\7\f774d15b139ef829e8644466fb4239907770fa97
+D
+SoulCorvus/manage.py,b\f\bf7b98fee227927d274451afa0a2e61ac7671559
+H
+SoulCorvus/main/admin.py,4\5\45f67550ba5749e498d94843afe54b9aea0a16c2
+G
+SoulCorvus/main/apps.py,a\d\adf05526eadb5241e31914f0a4fa6ed13365a1cc
+I
+SoulCorvus/main/models.py,8\2\82d917f4569a7d7478d2cd0f80d6fb0e3d968d6f
+H
+SoulCorvus/main/tests.py,c\8\c8b6cbd8e8ab2ff95e50a127665b9aa17905580d
+H
+SoulCorvus/main/views.py,7\8\7892a433763453cc965c3ef16c13d54f8c490b7b
+G
+SoulCorvus/main/urls.py,7\d\7ddc910e6a57786a7016845552cf8e9aa635c177
+\
+,SoulCorvus/main/templates/main/homePage.html,c\2\c2b5db6c45c9cba2550b891e873b068b74398bb9
+Y
+)SoulCorvus/main/templates/main/about.html,e\6\e61d3ebe0c7a0f29732f9fb88bbf7ae2df0a02f4
+Z
+*SoulCorvus/main/templates/main/layout.html,2\c\2c2ee84772e0c1eff4cc363cc2c05816987b696b
+E
+SoulCorvus/db.sqlite3,1\1\11edd0bdb0ddc78ce1d59b204c89a78520827d58
+X
+(SoulCorvus/main/static/main/css/main.css,d\1\d1bd83024719f19879b00cbb0df7e81cce63c20c
+[
++SoulCorvus/main/templates/main/chatgpt.html,e\1\e126dfb0498b0983b6e7ea72cc4ca78378a90b99
+\
+,SoulCorvus/main/templates/main/telegram.html,e\8\e84ee09358ae0c59d756cbe805a1c50a2f0f44da
+N
+SoulCorvus/registration/url.py,e\7\e7aae4bdaf711f7d429ce039a5655670cc907707
+O
+SoulCorvus/registration/urls.py,8\8\88462eec6d5ee4514bfe33eaa3f9afd9956e54d8
+P
+ SoulCorvus/registration/views.py,8\d\8d3798d1b2d606d639c255d36a52ce7a35360cac
+p
+@SoulCorvus/registration/templates/registration/registration.html,9\f\9f662f7d55e72e91b53a1b5316754a53cb0e59bc
+Q
+!SoulCorvus/registration/models.py,f\4\f47f36d738eb03b9745c71c31dc8ac02eb401a4f
+x
+HSoulCorvus/application/migrations/templates/application/application.html,c\0\c03ff745422342ccc5b8708f6d070e18241c4c43
+Y
+)SoulCorvus/application/migrations/urls.py,d\6\d6a9b1246ceb0743feae7176a3de7ec70ad9c600
+N
+SoulCorvus/application/urls.py,d\e\de533a40d708dfed5e575400d9c31e7fce47a24f
+O
+SoulCorvus/application/views.py,7\0\70dded5023c795334640bb4cce751acbb708bea3
+y
+ISoulCorvus/application/migrations/templates/application/applications.html,f\8\f8d5920558a93114fe836c5ea367fa5535d80a8c
+P
+ SoulCorvus/application/models.py,d\d\dd9e7aace8837677c8e9948d369e01270d2521ae
+o
+?SoulCorvus/application/templates/applications/applications.html,f\f\ff35f7cb7b15351a5715dd4a1c19080fb317bc43
+N
+SoulCorvus/application/apps.py,1\e\1e29407b5a82a343784903fbd4c1a81353b1af7a
+O
+SoulCorvus/registration/apps.py,f\8\f8b3d761ac1284dbfad4681be1fd3a7b0abbf96e
+P
+ SoulCorvus/registration/admin.py,4\1\41173b63a588e337bdd8572b3cd0c333be617f3b
+S
+#SoulCorvus/registration/__init__.py,3\f\3f2c8e6b4edfa0936fa02aed1ae4c8feac941df5
+m
+=SoulCorvus/application/templates/application/application.html,6\d\6d9a25d096e6b4823ceee4426b188c9f9346ced3
+g
+7SoulCorvus/application/templates/application/first.html,a\d\ada5be8ee35813be3a058a524755c8d2a7be4b70
+a
+1SoulCorvus/application/migrations/0001_initial.py,c\f\cf3525d88b94d4b195eab53bde67de2350d94ca4
+O
+SoulCorvus/application/admin.py,1\b\1b5fb2b1838479e4a8950427ab3e1f14fa7e476e
+m
+=SoulCorvus/application/migrations/0002_alter_first_options.py,a\f\af9d9f2b00fa652b95d4825a07eea727ea8d05ea
+F
+SoulCorvus/__init__.py,5\6\566ebdd859bb831c5223c3495fb2cf34dcc97c7c
+]
+-SoulCorvus/application/migrations/__init__.py,9\a\9a790130f5d7a6e4f88960c105219af2c1800ac8
