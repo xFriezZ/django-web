@@ -1,11 +1,11 @@
 {% extends 'main/layout.html' %}
 
-{% block title%}Остави заявку{% endblock %}
+{% block title%}Оставить заявку{% endblock %}
 
 {% block content%}
     <div class="features">
         <h1>Оставить заявку</h1>
-        <p>Тут вы можете оставить заявку</p>
-        <button class="btn btn-success">{% filter upper%}оставить заявку{%endfilter%}</button>
+        <p>Чтобы оставить заявку необходимо войти в профиль</p>
+        <button class="btn btn-success"onclick="location.href='{% url 'login' %}'">{% filter upper%}Войти{%endfilter%}</button>
     </div>
 {% endblock %}

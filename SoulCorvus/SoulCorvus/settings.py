@@ -35,7 +35,7 @@ ALLOWED_HOSTS = [] # Пример: "https://soulcourvus.com"
 INSTALLED_APPS = [
     'main',
     'application',
-    'registration',
+    'register',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

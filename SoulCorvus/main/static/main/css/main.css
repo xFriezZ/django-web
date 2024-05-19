@@ -1,0 +1,59 @@
+body {
+    background: #2c2c2c; /*! бэкграунд*/
+}
+aside {
+    float: left; /*! расположение слева */
+    background: #181818; /*! цвет заднего фона */
+    width: 15%; /*! ширина */
+    height: 100vh; /*! высота */
+    color: #fff; /*! цвент текста */
+    border-right: 5px solid #4d4d4d; /*! обводка по правой стороне */
+}
+
+aside img {
+    float: left;
+    width: 300px;
+}
+
+aside .logo{
+    font-size: 40px; /*! размер шрифта */
+    margin-left: 10px; /*! отступ слева */
+    font-weight: bold; /*! жирность шрифта */
+}
+
+aside h3 {
+    margin-top: 50px;
+    margin-left: 20px;
+    font-size: 29px;
+}
+
+aside ul {list-style: none; margin-left: 5px;}
+
+aside ul li {
+    color: #fff;
+    display: block;
+    margin-top: 20px;
+    transition: transform .3s ease; /*! плавность */
+}
+
+aside ul li:hover, aside ul a:hover {
+    color: #eb5959;
+    text-decoration: none;
+    transform: scale(1.10); /*! Увеличение при наведении курсора */
+}
+
+aside ul a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main .features{
+    float: left;
+    color: #fff;
+    margin-top: 100px;
+    text-align: center;
+    width: 75%;
+}
+
+main .features hi{font-size: 50px;}
+main .features hi{max-width: 400px; margin: 20px auto}

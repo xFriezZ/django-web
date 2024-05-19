@@ -1,18 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="71c4d661-375e-4c07-a8aa-080a4dfa6c65" name="Changes" comment="" />
+    <list default="true" id="71c4d661-375e-4c07-a8aa-080a4dfa6c65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SoulCorvus/register/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoulCorvus/register/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoulCorvus/register/templates/registration/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoulCorvus/register/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoulCorvus/register/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/django-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/django-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d9a25d096e6b4823ceee4426b188c9f9346ced3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af9d9f2b00fa652b95d4825a07eea727ea8d05ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c03ff745422342ccc5b8708f6d070e18241c4c43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf3525d88b94d4b195eab53bde67de2350d94ca4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6a9b1246ceb0743feae7176a3de7ec70ad9c600" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e61d3ebe0c7a0f29732f9fb88bbf7ae2df0a02f4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e7aae4bdaf711f7d429ce039a5655670cc907707" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f774d15b139ef829e8644466fb4239907770fa97" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f774d15b139ef829e8644466fb4239907770fa97" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8d5920558a93114fe836c5ea367fa5535d80a8c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff35f7cb7b15351a5715dd4a1c19080fb317bc43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/d/6d9a25d096e6b4823ceee4426b188c9f9346ced3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/f/af9d9f2b00fa652b95d4825a07eea727ea8d05ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/0/c03ff745422342ccc5b8708f6d070e18241c4c43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/f/cf3525d88b94d4b195eab53bde67de2350d94ca4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/6/d6a9b1246ceb0743feae7176a3de7ec70ad9c600" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/6/e61d3ebe0c7a0f29732f9fb88bbf7ae2df0a02f4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/7/e7aae4bdaf711f7d429ce039a5655670cc907707" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/8/f8d5920558a93114fe836c5ea367fa5535d80a8c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/f/ff35f7cb7b15351a5715dd4a1c19080fb317bc43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/SoulCorvus/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/SoulCorvus/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/SoulCorvus/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/SoulCorvus/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/application/templates/application/first.html" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/application/templates/application/first.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/application/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/application/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/main/static/main/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/main/static/main/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/main/templates/main/chatgpt.html" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/main/templates/main/chatgpt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/main/templates/main/homePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/main/templates/main/homePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/main/templates/main/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/main/templates/main/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/main/templates/main/telegram.html" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/main/templates/main/telegram.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/registration/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/register/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/registration/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/register/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/registration/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/register/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/registration/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/registration/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/register/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/registration/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/register/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/registration/static/registration/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/register/static/registration/css/register.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/registration/static/registration/css/registration.css" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/register/static/registration/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/registration/static/registration/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/register/static/registration/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/registration/static/registration/img/logononame.png" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/register/static/registration/img/logononame.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/registration/templates/registration/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/registration/templates/registration/registration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/registration/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoulCorvus/register/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/registration/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoulCorvus/registration/views.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "xFriezZ"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/xFriezZ/django-web.git",
+    "accountId": "c9e1ab18-fb2d-4acd-8cf8-afc35a037ac1"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2gatvU2epSiee3U1M0sU4Te7rnd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,10 +100,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Notification.DisplayName-DoNotAsk-PyCharm Professional Advertiser": "PyCharm Professional recommended",
+    "Notification.DoNotAsk-PyCharm Professional Advertiser": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/sany_/PycharmProjects/django-web/SoulCorvus/registration/static/registration/css"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sany_\PycharmProjects\django-web\SoulCorvus\registration\static\registration\css" />
+      <recent name="C:\Users\sany_\PycharmProjects\django-web\SoulCorvus\registration\static\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sany_\PycharmProjects\django-web\SoulCorvus\registration\static\registration\img" />
+      <recent name="C:\Users\sany_\PycharmProjects\django-web\SoulCorvus\registration\static\registration" />
+      <recent name="C:\Users\sany_\PycharmProjects\django-web\SoulCorvus\application" />
+      <recent name="C:\Users\sany_\PycharmProjects\django-web\SoulCorvus\main\static\main\img" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -42,5 +139,28 @@
       <updated>1715947747082</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
